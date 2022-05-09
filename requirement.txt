@@ -1,0 +1,6 @@
+autopep8==1.6.0
+pycodestyle==2.8.0
+pygame==2.1.2
+pyserial==3.5
+rplidar-roboticia==0.9.5
+toml==0.10.2
